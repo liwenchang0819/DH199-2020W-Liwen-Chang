@@ -6,9 +6,11 @@ week 2: previous work of Socks company review
 including competitive reviews and task analyses.
 ‣Develop skills problem solving, innovation
 
-week 3: refine the research question + design problem statement
+week 3:  Research continues (refine the research question + design problem statement)
 
-week 4: user research (or experimental design)
+
+week 4: : Establish research focus (refine research question and design problem statement)
+user research (or experimental design)
 
 week 5: persona/ scenario/ wireframe
 
