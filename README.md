@@ -1,5 +1,7 @@
 week 1: project planning and setup github
+
 week 2: previous work of Socks company review
+
 ‣Compare products in the same space/in adjacent industries,
 including competitive reviews and task analyses.
 ‣Develop skills problem solving, innovation
